@@ -32,7 +32,7 @@ public class Assignment1 {
 		case '-':
 			answer=Math.abs(num1-num2);
 			System.out.println("Subtraction of Number = "+answer);
-			break;
+			break; 
 			
 		case '*':
 			answer=num1*num2;
